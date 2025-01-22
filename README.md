@@ -33,27 +33,6 @@ The database used in this project supports a comprehensive food delivery applica
 - **Databricks**: Provides scalable query execution and schema management, ideal for handling complex datasets with high performance.
 - **Snowflake**: Offers efficient, cloud-based data storage and retrieval, ensuring reliability and scalability for analytical workloads.
 
-## Project Structure
-```
-SQLEase
-├─ .streamlit
-│  └─ config.toml
-├─ Langchain_Intro.ipynb
-├─ README.md
-├─ SQLEase.png
-├─ SQLEase.py
-├─ SQLEase_Live.py
-├─ artifacts/
-├─ authenticator.yml
-├─ data/
-├─ helper.ipynb
-├─ requirements.txt
-├─ src
-│  ├─ add_logo.py
-│  └─ utils.py
-├─ test.sql
-└─ utils.ipynb
-```
 
 ## Deployment Instructions
 1. **Virtual Environment Setup**:
