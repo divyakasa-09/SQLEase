@@ -13,7 +13,7 @@ SQLEase is a user-friendly, Text-to-SQL application designed to enable restauran
 ## Technologies Used
 - **Programming Language**: Python 3.10
 - **Frameworks**: Streamlit, LangChain
-- **Cloud Platforms**: AWS (EC2), Databricks, Snowflake
+- **Cloud Platforms**: AWS (EC2), Databricks
 - **LLMs**: OpenAI GPT-4
 - **Other Tools**: YAML, dotenv, Mermaid.js
 
@@ -57,7 +57,7 @@ The database used in this project supports a comprehensive food delivery applica
 
 ## Takeaways
 - Learned to integrate LLMs with databases for natural language processing.
-- Developed expertise in using Databricks and Snowflake for scalable data management.
+- Developed expertise in using Databricks  for scalable data management.
 - Implemented dynamic visualizations, user authentication, and robust error handling.
 - Deployed a secure, scalable application leveraging AWS cloud infrastructure.
 
