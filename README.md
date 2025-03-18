@@ -1,7 +1,7 @@
 # SQLEase
 
 ## Project Overview
-SQLEase is a user-friendly, Text-to-SQL application designed to enable restaurant managers to query relational databases using natural language. This application leverages GPT-powered Large Language Models (LLMs) and integrates with advanced cloud data platforms such as Databricks and Snowflake to provide efficient and reliable query generation, optimization, and execution. 
+SQLEase is a user-friendly, Text-to-SQL application designed to enable restaurant managers to query relational databases using natural language. This application leverages GPT-powered Large Language Models (LLMs) and integrates with advanced cloud data platforms such as Databricks to provide efficient and reliable query generation, optimization, and execution. 
 
 ## Key Features
 - **Natural Language to SQL Translation**: Converts user input into optimized SQL queries, simplifying access to restaurant information.
